@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Creepster', cursive;
+    font-size: 80px;
+    color: red;
+}
+
+.dracula {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+audio {
+    padding: 30px;
+    text-align: center;
+}
